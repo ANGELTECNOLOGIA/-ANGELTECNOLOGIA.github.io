@@ -8,3 +8,8 @@ h1 {
     font-weight: bold;
     font-family: sans-serif;
 }
+
+body {
+    text-align: center;
+    background-color: #0C5898;
+}
