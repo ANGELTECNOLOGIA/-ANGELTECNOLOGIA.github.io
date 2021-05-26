@@ -8,6 +8,8 @@ h1 {
     font-weight: bold;
     font-family: sans-serif;
     background: teal;
+    color: white;
+    border: 1px solid black;
 }
 
 body {
