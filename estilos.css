@@ -38,8 +38,9 @@ body {
 }
 
 .cabecera {
-    background: #5a58dd;
+    background: teal;
     padding: 5px 15px;
+    color: white;
 }
 
 .cabecera li {
