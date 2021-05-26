@@ -26,7 +26,7 @@ body {
     width: 960px;
     border: 1px solid black;
     margin: 15px auto;
-    background: rgb(34, 104, 145);
+    background: teal;
 }
 
 .header {
