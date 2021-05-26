@@ -13,7 +13,7 @@ h2 {
     font: bold 14px sans-serif;
 }
 
-header,section ,footer , aside, nav, article, hgroup {
+header,section ,footer, nav, article, hgroup {
     display: block;
 }
 
