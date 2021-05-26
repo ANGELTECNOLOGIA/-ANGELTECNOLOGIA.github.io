@@ -1,4 +1,4 @@
-*{
+ {
     margin: 0;
     padding: 0;
 }
@@ -39,7 +39,7 @@ body {
 
 .cabecera {
     background: #5a58dd;
-    padding: 8px 15px;
+    padding: 5px 15px;
 }
 
 .cabecera li {
