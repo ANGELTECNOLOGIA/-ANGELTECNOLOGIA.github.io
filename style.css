@@ -10,9 +10,14 @@ h1 {
     background: teal;
     color: white;
     border: 1px solid black;
+    padding: 20px;
 }
 
 body {
     text-align: center;
     background-color: #0C5898;
+}
+
+article{
+ background: #06CDBE;
 }
