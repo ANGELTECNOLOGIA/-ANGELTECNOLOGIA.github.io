@@ -30,7 +30,7 @@ body {
 }
 
 .header {
-    background: rgb(5, 5, 175);;
+    background: teal;
     border: 1px solid #414042;
     padding: 20px;
     text-align: center;
