@@ -54,7 +54,7 @@ body {
     margin: 20px;
     width: 600px;
     float: left;
-    background: rgb(34, 104, 145);
+    background: teal;
 }
 
 article {
@@ -88,7 +88,7 @@ article footer {
 .pug blockquote {
     border: 1px solid black;
     padding: 40px;
-    background: rgb(146, 219, 219);
+    background: teal;
     margin-bottom: 20px;
 }
 
