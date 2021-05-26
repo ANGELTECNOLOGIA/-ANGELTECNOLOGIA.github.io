@@ -58,7 +58,7 @@ body {
 }
 
 article {
-    background: cyan;
+    background: #06CDBE;
     border: 1px solid black;
     padding: 20px;
     margin-bottom: 15px;
@@ -96,7 +96,7 @@ article footer {
     clear: both;
     text-align: center;
     padding: 20px;
-    background: rgb(61, 59, 59);
+    background: 06CDBE;
     color: white;
 }
 
